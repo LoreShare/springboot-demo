@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: springboot-demo
+  profiles:
+    active: dev
